@@ -22,5 +22,7 @@ public class CarExample {
         System.out.println("car4.model : " + car4.model);
         System.out.println("car4.color : " + car4.color);
         System.out.println("car4.maxSpeed" + car4.maxSpeed);
+
+        System.out.println("버그 드디어 고쳤네 시발");
     }
 }
