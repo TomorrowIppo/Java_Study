@@ -1,4 +1,4 @@
-package 이것이자바다.No11_BasicAPIClass.Member;
+package 이것이자바다.No11_BasicAPIClass.Member1;
 
 public class MemberExample {
     public static void main(String[] args) {
