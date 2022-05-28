@@ -1,8 +1,8 @@
-package 이것이자바다.No11_BasicAPIClass.ToStringExample;
+package 이것이자바다.No11_BasicAPIClass.ToStringExample1;
 
 import java.util.Date;
 
-public class ToStringExample {
+public class ToStringExample1 {
     public static void main(String[] args) {
         Object obj1 = new Object();
         Date obj2 = new Date();

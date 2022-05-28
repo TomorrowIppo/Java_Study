@@ -1,4 +1,4 @@
-package 이것이자바다.No11_BasicAPIClass;
+package 이것이자바다.No11_BasicAPIClass.EqaulsAndDeepEqaulsExample;
 
 import java.util.Arrays;
 import java.util.Objects;
