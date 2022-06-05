@@ -23,7 +23,8 @@ public class ExcuteSubminExample {
                 }
             };
 
-            executorService.execute(runnable);
+            //executorService.execute(runnable);
+            executorService.submit(runnable);
             Thread.sleep(10);
         }
         executorService.shutdown();
