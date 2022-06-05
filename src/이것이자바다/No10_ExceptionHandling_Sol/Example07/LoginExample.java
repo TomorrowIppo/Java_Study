@@ -1,4 +1,4 @@
-package 이것이자바다.No10_ExceptionHandling.Example07;
+package 이것이자바다.No10_ExceptionHandling_Sol.Example07;
 
 public class LoginExample {
     public static void main(String[] args) {

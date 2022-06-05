@@ -12,3 +12,6 @@ public class DatePrintExample {
         System.out.println(sdf.format(now));
     }
 }
+
+
+

@@ -1,4 +1,4 @@
-package 이것이자바다.No09_NestedClass_NestedInterface.Example04;
+package 이것이자바다.No09_NestedClass_NestedInterface_Sol.Example04;
 
 public class NestedClassExample {
     public static void main(String[] args) {
