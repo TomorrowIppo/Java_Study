@@ -54,6 +54,6 @@ public class CallbackExample {
         CallbackExample example = new CallbackExample();
         example.doWork("3", "3");
         example.doWork("3", "삼");
-
+        example.finish();
     }
 }
